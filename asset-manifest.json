@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crypto-mark/static/css/main.bf5053cf.chunk.css",
+    "main.js": "/crypto-mark/static/js/main.0616ecf2.chunk.js",
+    "main.js.map": "/crypto-mark/static/js/main.0616ecf2.chunk.js.map",
+    "runtime-main.js": "/crypto-mark/static/js/runtime-main.cd197070.js",
+    "runtime-main.js.map": "/crypto-mark/static/js/runtime-main.cd197070.js.map",
+    "static/js/2.9cd37f92.chunk.js": "/crypto-mark/static/js/2.9cd37f92.chunk.js",
+    "static/js/2.9cd37f92.chunk.js.map": "/crypto-mark/static/js/2.9cd37f92.chunk.js.map",
+    "index.html": "/crypto-mark/index.html",
+    "static/css/main.bf5053cf.chunk.css.map": "/crypto-mark/static/css/main.bf5053cf.chunk.css.map",
+    "static/js/2.9cd37f92.chunk.js.LICENSE.txt": "/crypto-mark/static/js/2.9cd37f92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd197070.js",
+    "static/js/2.9cd37f92.chunk.js",
+    "static/css/main.bf5053cf.chunk.css",
+    "static/js/main.0616ecf2.chunk.js"
+  ]
+}
